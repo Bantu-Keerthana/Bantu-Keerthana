@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Keerthana 
+# Hi, I'm Keerthana 👋
 
 ### Data & AI Engineer · ML Researcher · Agentic AI Builder
 
@@ -14,32 +14,32 @@
 
 ---
 
-##  About Me
+## 🧠 About Me
 
 I'm a **Data and AI professional** completing my Master of Applied Computing at **Wilfrid Laurier University, Waterloo**.
 
 My work sits at the intersection of **perception**, **language**, and **autonomous decision-making** — I build systems where models don't just predict, they reason, plan, and act.
 
--  **Research:** Vision-and-Language Navigation using LLMs, BLIP, YOLO, and the R2R dataset
--  **Interests:** Agentic AI, Multi-Agent Systems, RAG pipelines, Embodied AI
--  **Approach:** Production-oriented — I care about things that actually run reliably
--  Based in Toronto, Ontario, Canada
+- 🔬 **Research:** Vision-and-Language Navigation using LLMs, BLIP, YOLO, and the R2R dataset
+- 🤖 **Interests:** Agentic AI, Multi-Agent Systems, RAG pipelines, Embodied AI
+- 🛠️ **Approach:** Production-oriented — I care about things that actually run reliably
+- 📍 Based in Toronto, Ontario, Canada
 
 ---
 
-##  Currently
+## 🚧 Currently
 
 ```text
-  Finalising VLN research project @ Wilfrid Laurier University
-  Exploring multi-agent reasoning for embodied navigation
-  Open-sourcing the VLN pipeline with NavGPT + PPO + Spatial Episodic Memory
+🔬  Finalising VLN research project @ Wilfrid Laurier University
+🧩  Exploring multi-agent reasoning for embodied navigation
+📦  Open-sourcing the VLN pipeline with NavGPT + PPO + Spatial Episodic Memory
 ```
 
->  **Open to:** AI/ML research roles · full-time opportunities · research collaborations
+> 💼 **Open to:** AI/ML research roles · full-time opportunities · research collaborations
 
 ---
 
-##  Research Focus
+## 🔬 Research Focus
 
 ### Vision-and-Language Navigation (VLN)
 
@@ -51,7 +51,7 @@ My research investigates how LLMs can serve as high-level planners for embodied 
 - **Novel metrics** — TCWPO, IGD/IGD-CD, DQI, VCEQ, PCEDS alongside standard SR and SPL
 - **83.3% success rate** on a 12-episode R2R val-unseen subset
 
-*Supervisor: Wilfrid Laurier University · Apr 2025 – Apr 2026*
+*Wilfrid Laurier University · Apr 2025 – Apr 2026*
 
 ---
 
@@ -60,36 +60,73 @@ My research investigates how LLMs can serve as high-level planners for embodied 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>💻 Languages & Core</h4>
-      <img src="https://skillicons.dev/icons?i=python,java,linux,git,docker,mysql&perline=6" />
+      <b>💻 Languages & Core</b><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logoColor=white"/>
     </td>
     <td valign="top" width="50%">
-      <h4>🤖 Machine Learning & AI</h4>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy&perline=6" />
+      <b>🤖 Machine Learning & AI</b><br><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h4>🧠 LLMs · RAG · Agentic AI</h4>
-      OpenAI GPT-4 · LangChain · CrewAI · RAG · Agentic RAG · ReAct · Prompt Engineering · Elasticsearch
+      <b>🧠 LLMs · RAG · Agentic AI</b><br><br>
+      <img src="https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CrewAI-111827?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG%20Pipelines-6B7280?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agentic%20RAG-6B7280?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ReAct%20%2F%20ReWOO-6B7280?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-6B7280?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
     </td>
     <td valign="top">
-      <h4>👁 Computer Vision</h4>
-      YOLOv8 · BLIP · CLIP · MiDaS · DeepSORT · Object Detection · Depth Estimation
+      <b>👁 Computer Vision</b><br><br>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YOLOv8-00B4CC?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BLIP-0EA5E9?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CLIP-7C3AED?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MiDaS-10B981?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DeepSORT-059669?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Object%20Detection-1D9E75?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Depth%20Estimation-085041?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h4>☁️ Data Engineering & Cloud</h4>
-      <img src="https://skillicons.dev/icons?i=aws,spark,mysql&perline=6" />
-      <br>Databricks · ETL Pipelines · CI/CD · Feature Engineering
+      <b>☁️ Data Engineering & Cloud</b><br><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ETL%20Pipelines-6B7280?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-6B7280?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Feature%20Engineering-6B7280?style=flat-square&logoColor=white"/>
     </td>
     <td valign="top">
-      <h4>📊 BI & Visualization</h4>
-      Power BI · Tableau · Matplotlib · KPI Reporting · EDA
+      <b>📊 BI & Visualization</b><br><br>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+      <img src="https://img.shields.io/badge/KPI%20Reporting-6B7280?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/EDA-6B7280?style=flat-square&logoColor=white"/>
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🚀 Featured Projects
@@ -140,7 +177,7 @@ Anomaly detection pipeline over network traffic logs using Isolation Forest, Gra
 
 ---
 
-##  Let's Connect
+## 🤝 Let's Connect
 
 I'm open to research collaborations, AI/ML roles, and interesting conversations about embodied AI and agentic systems.
 
