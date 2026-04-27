@@ -6,7 +6,7 @@
 
 *Building production-ready AI systems - from perception pipelines to LLM-powered agents*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=curved-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/bantu-keerthana-b546271a6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=curved-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bantu-keerthana-b546271a6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=curved-square&logo=gmail&logoColor=white)](mailto:imwannabebk@gmail.com)
 [![Location](https://img.shields.io/badge/Toronto%2C%20Canada-0078D4?style=curved-square&logo=googlemaps&logoColor=white)](#)
 
@@ -16,7 +16,7 @@
 
 ##  About Me
 
-I'm a **Data and AI professional** completing my Master of Applied Computing at **Wilfrid Laurier University, Waterloo**.
+I'm a **Data and AI professional** completed my Master of Applied Computing from **Wilfrid Laurier University, Waterloo**.
 
 My work sits at the intersection of **perception**, **language**, and **autonomous decision-making** ,  I build systems where models don't just predict, they reason, plan, and act.
 
