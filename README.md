@@ -1,150 +1,164 @@
-# Pinned Repo Setup Guide
+<div align="center">
 
-These go into each repo's Settings on GitHub.
-Edit: repo page → gear icon (⚙) next to "About" → fill in Description + Topics → Save.
+# Hi, I'm Keerthana 👋
 
----
+### Data & AI Engineer · ML Researcher · Agentic AI Builder
 
-## 1. VLN Project (vln_project)
+*Building production-ready AI systems — from perception pipelines to LLM-powered agents*
 
-**Description (max 350 chars):**
-```
-LLM-guided Vision-and-Language Navigation agent for Matterport3D / R2R.
-GPT-4-turbo planner + BLIP + YOLOv8 + MiDaS + PPO RL executor +
-Spatial Episodic Memory + 6-layer guardrail system. 83.3% SR on val-unseen.
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bantu-keerthana-b546271a6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imwannabebk@gmail.com)
+[![Location](https://img.shields.io/badge/Toronto%2C%20Canada-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-**Topics (add these one by one):**
-```
-vision-language-navigation
-vln
-matterport3d
-room-to-room
-navgpt
-llm
-gpt-4
-reinforcement-learning
-ppo
-computer-vision
-blip
-yolov8
-slam
-embodied-ai
-python
-```
-
-**Website field:** leave blank (or link to your university page if you have one)
+</div>
 
 ---
 
-## 2. Academic Research Retrieval System
+## 🧠 About Me
 
-**Description:**
-```
-RAG-based academic paper retrieval using SciBERT embeddings +
-Elasticsearch. Semantic search and LLM-powered summarisation
-for domain-specific research queries.
-```
+I'm a **Data and AI professional** completing my Master of Applied Computing at **Wilfrid Laurier University, Waterloo**.
 
-**Topics:**
-```
-rag
-retrieval-augmented-generation
-scibert
-elasticsearch
-nlp
-transformers
-pytorch
-tensorflow
-semantic-search
-academic-search
-python
-```
+My work sits at the intersection of **perception**, **language**, and **autonomous decision-making** — I build systems where models don't just predict, they reason, plan, and act.
+
+- 🔬 **Research:** Vision-and-Language Navigation using LLMs, BLIP, YOLO, and the R2R dataset
+- 🤖 **Interests:** Agentic AI, Multi-Agent Systems, RAG pipelines, Embodied AI
+- 🛠️ **Approach:** Production-oriented — I care about things that actually run reliably
+- 📍 Based in Toronto, Ontario, Canada
 
 ---
 
-## 3. Real-Time Sports Analytics
+## 🚧 Currently
 
-**Description:**
-```
-Real-time player tracking pipeline using YOLOv8 + DeepSORT on
-match footage. Extracts speed, acceleration, zone occupancy.
-LSTM-based zone forecasting at 93% accuracy.
+```text
+🔬  Finalising VLN research project @ Wilfrid Laurier University
+🧩  Exploring multi-agent reasoning for embodied navigation
+📦  Open-sourcing the VLN pipeline with NavGPT + PPO + Spatial Episodic Memory
 ```
 
-**Topics:**
-```
-computer-vision
-yolov8
-deepsort
-object-tracking
-lstm
-sports-analytics
-opencv
-video-analytics
-python
-deep-learning
-```
+> 💼 **Open to:** AI/ML research roles · full-time opportunities · research collaborations
 
 ---
 
-## 4. Anomaly Detection in Firewall Traffic
+## 🔬 Research Focus
 
-**Description:**
-```
-Anomaly detection pipeline on network firewall logs using
-Isolation Forest, Gradient Boosting, and Graph Neural Networks
-to surface suspicious traffic patterns.
-```
+### Vision-and-Language Navigation (VLN)
 
-**Topics:**
-```
-anomaly-detection
-graph-neural-networks
-gnn
-network-security
-firewall
-isolation-forest
-scikit-learn
-pytorch
-cybersecurity
-python
-```
+My research investigates how LLMs can serve as high-level planners for embodied agents navigating real indoor 3D environments from natural language instructions alone. Key contributions:
+
+- **NavGPT integration** — GPT-4-turbo as a reasoning planner over Matterport3D scenes
+- **Multi-modal perception** — BLIP captioning + YOLOv8 detection + MiDaS depth fused per viewpoint
+- **6-layer guardrail system** — pre-flight validation, smart fallback, dead-end guard, cycle detection, multi-stage escape, partial credit
+- **Novel metrics** — TCWPO, IGD/IGD-CD, DQI, VCEQ, PCEDS alongside standard SR and SPL
+- **83.3% success rate** on a 12-episode R2R val-unseen subset
+
+*Supervisor: Wilfrid Laurier University · Apr 2025 – Apr 2026*
 
 ---
 
-## GitHub Bio (under your avatar — 160 chars max)
+## 🛠️ Tech Stack
 
-Go to: github.com → top right avatar → Settings → Bio
+**Languages & Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-Paste this:
-```
-MSc Computing @ Wilfrid Laurier · AI/ML · VLN Research · Agentic AI · Toronto 🇨🇦
-```
+**Machine Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**LLMs · RAG · Agentic AI**
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-6B7280?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=flat-square&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Computer Vision**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![BLIP](https://img.shields.io/badge/BLIP-0EA5E9?style=flat-square&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-7C3AED?style=flat-square&logoColor=white)
+![MiDaS](https://img.shields.io/badge/MiDaS-10B981?style=flat-square&logoColor=white)
+![DeepSORT](https://img.shields.io/badge/DeepSORT-059669?style=flat-square&logoColor=white)
+
+**Data Engineering & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**BI & Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 
 ---
 
-## GitHub Profile Name Fields
+## 🚀 Featured Projects
 
-While you're in Settings, also fill in:
+### 🧭 LLM-Guided Vision-and-Language Navigation *(pinned)*
+> *Research · Wilfrid Laurier University · 2025–2026*
 
-- **Name:** Keerthana Bantu
-- **Location:** Toronto, Ontario, Canada
-- **LinkedIn:** linkedin.com/in/bantu-keerthana-b546271a6
+End-to-end VLN agent navigating indoor Matterport3D environments from natural language. GPT-4-turbo high-level planner + BLIP + YOLOv8 + MiDaS perception + PPO RL executor + Spatial Episodic Memory + 6-layer guardrail system. **83.3% SR, 0.607 SPL** on R2R val-unseen.
 
-These show on your profile card and in search results — small but makes a big difference.
+`GPT-4` `BLIP` `YOLOv8` `MiDaS` `PPO` `SLAM` `Matterport3D` `R2R` `Python`
 
 ---
 
-## How to Pin Repos
+### 📚 ML-Powered Academic Research Retrieval System *(pinned)*
+> *Wilfrid Laurier University*
 
-1. Go to your GitHub profile page
-2. Scroll to the "Pinned" section
-3. Click "Customize your pins"
-4. Select your 3–4 repos → Save
+RAG pipeline combining SciBERT embeddings and Elasticsearch to search, rank, and summarise academic papers. Embedding-based retrieval outperforms keyword search on domain-specific queries.
 
-Pin in this order (most impressive first):
-1. vln_project
-2. research-retrieval (or whatever you name it)
-3. sports-analytics
-4. anomaly-detection (optional 4th)
+`RAG` `SciBERT` `Elasticsearch` `Transformers` `PyTorch` `TensorFlow` `NLP`
+
+---
+
+### 🏃 Real-Time Sports Analytics Pipeline *(pinned)*
+> *Wilfrid Laurier University*
+
+Player tracking over live match footage using YOLOv8 + DeepSORT. Extracts movement metrics — speed, acceleration, zone occupancy — and forecasts positioning with LSTM models. **93% zone prediction accuracy.**
+
+`YOLOv8` `DeepSORT` `LSTM` `OpenCV` `Computer Vision` `Python`
+
+---
+
+### 🔒 Anomaly Detection in Firewall Traffic
+> *Wilfrid Laurier University*
+
+Anomaly detection pipeline over network traffic logs using Isolation Forest, Gradient Boosting, and Graph Neural Networks to surface suspicious behaviour and monitoring signals.
+
+`PyTorch` `GNN` `Scikit-learn` `Isolation Forest` `Network Analysis`
+
+---
+
+## 💼 Experience Highlights
+
+| Role | Company | Impact |
+|---|---|---|
+| **Research Volunteer — VLN** | Wilfrid Laurier University | Full LLM + perception + RL navigation pipeline · 83.3% SR |
+| **Back-end Developer** | Crack Interview, Toronto | 40% latency reduction via WebRTC / Agora SDK integration |
+| **Data Scientist Intern** | Ascent Group, Bangalore | 60% pipeline efficiency gain via automated ingestion |
+
+---
+
+##  Let's Connect
+
+I'm open to research collaborations, AI/ML roles, and interesting conversations about embodied AI and agentic systems.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bantu-keerthana-b546271a6)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imwannabebk@gmail.com)
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/keerthana-bantu">keerthana-bantu</a> — always learning, always building</i>
+</div>
