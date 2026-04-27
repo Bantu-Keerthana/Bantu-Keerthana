@@ -57,14 +57,39 @@ My research investigates how LLMs can serve as high-level planners for embodied 
 
 ## 🛠️ Tech Stack
 
-| | |
-|---|---|
-| **💻 Languages & Core** | Python · SQL · Java · Linux · Git · Jupyter · REST APIs · Docker |
-| **🤖 Machine Learning & AI** | PyTorch · TensorFlow · Scikit-learn · HuggingFace · Pandas · NumPy |
-| **🧠 LLMs · RAG · Agentic AI** | OpenAI GPT-4 · LangChain · CrewAI · RAG Pipelines · Agentic RAG · ReAct · Prompt Engineering · Elasticsearch |
-| **👁 Computer Vision** | YOLOv8 · OpenCV · BLIP · CLIP · MiDaS · DeepSORT · Object Detection |
-| **☁️ Data Engineering & Cloud** | AWS · Apache Spark · Databricks · MySQL · ETL Pipelines · CI/CD |
-| **📊 BI & Visualization** | Power BI · Tableau · Matplotlib · KPI Reporting · EDA |
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>💻 Languages & Core</h4>
+      <img src="https://skillicons.dev/icons?i=python,java,linux,git,docker,mysql&perline=6" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>🤖 Machine Learning & AI</h4>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy&perline=6" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>🧠 LLMs · RAG · Agentic AI</h4>
+      OpenAI GPT-4 · LangChain · CrewAI · RAG · Agentic RAG · ReAct · Prompt Engineering · Elasticsearch
+    </td>
+    <td valign="top">
+      <h4>👁 Computer Vision</h4>
+      YOLOv8 · BLIP · CLIP · MiDaS · DeepSORT · Object Detection · Depth Estimation
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>☁️ Data Engineering & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=aws,spark,mysql&perline=6" />
+      <br>Databricks · ETL Pipelines · CI/CD · Feature Engineering
+    </td>
+    <td valign="top">
+      <h4>📊 BI & Visualization</h4>
+      Power BI · Tableau · Matplotlib · KPI Reporting · EDA
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 Featured Projects
